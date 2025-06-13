@@ -60,6 +60,6 @@ Sistem ini dibuat untuk membantu pengelolaan proses pengajuan, penetapan, dan pe
     php artisan serve
     ```
 
-##🙋‍♂️ Developer
+## 🙋‍♂️ Developer
 - GitHub: @sukasukajija
 - Email: sukasukajija@example.com
