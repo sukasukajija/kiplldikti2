@@ -4,11 +4,10 @@ Sistem ini dibuat untuk membantu pengelolaan proses pengajuan, penetapan, dan pe
 
 ## 🚀 Fitur Utama
 
-- ✍️ Pengajuan mahasiswa baru dan mahasiswa ongoing oleh Operator PT
-- ✅ Validasi dan penetapan oleh Operator LLDIKTI
+- ✍️ Penetapan awal, Pencairan mahasiswa baru dan mahasiswa ongoing oleh Operator PT
+- ✅ Validasi pengajuan oleh Operator LLDIKTI
 - 📁 Upload & permintaan dokumen pendukung
-- 💸 Pengajuan pencairan dana dan monitoring status
-- 📊 Dashboard rekap data pengajuan, pencairan, dan status akhir
+- 📊 Dashboard rekap data penetapan, pencairan, dan status akhir
 
 ## ⚙️ Teknologi
 
