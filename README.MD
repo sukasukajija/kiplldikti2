@@ -21,7 +21,7 @@ Sistem ini dibuat untuk membantu pengelolaan proses pengajuan, penetapan, dan pe
 
 1. Clone the repository:
     ```bash
-    git clone
+    git clone https://github.com/sukasukajija/kiplldikti2.git
     ```
 
 2. Navigate into the project directory:
