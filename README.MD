@@ -61,4 +61,4 @@ Sistem ini dibuat untuk membantu pengelolaan proses pengajuan, penetapan, dan pe
 
 ## 🙋‍♂️ Developer
 - GitHub: @sukasukajija
-- Email: sukasukajija@example.com
+- Email: sitinurazizahhh18@gmail.com
