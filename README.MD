@@ -26,7 +26,7 @@ Sistem ini dibuat untuk membantu pengelolaan proses pengajuan, penetapan, dan pe
 
 2. Navigate into the project directory:
     ```bash
-    cd laravel11-stisla
+    cd kiplldikti2
     ```
 
 3. Install PHP dependencies:
